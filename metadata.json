@@ -1,0 +1,8 @@
+
+{
+  "name": "Therap Kick-Off: Corporate Tournament Manager",
+  "description": "A high-performance dashboard for managing corporate multi-sport tournaments, featuring real-time auctions, AI-powered player valuation, and polymorphic scoring systems.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
