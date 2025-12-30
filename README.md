@@ -54,14 +54,7 @@ npm start
 # or if using Vite
 npm run dev
 Project Structure
-src/
-├── components/
-│   ├── AdminPanel.tsx      # Admin controls (Import/Edit/Reset)
-│   ├── AuctionPanel.tsx    # The live bidding interface/timer
-│   └── PlayerCard.tsx      # Visual representation of players
-├── types.ts                # TypeScript interfaces (Player, Team, Role)
-├── App.tsx                 # Main application logic & State Management
-└── index.css               # Tailwind directives
+
 Usage GuideInitial Setup (First Run)
 Open the app in your browser.
 Select Admin Portal.
